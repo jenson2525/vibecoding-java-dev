@@ -1,5 +1,6 @@
 # vibecoding-java-dev
 这是一个面向 Java 服务端开发的 vibecoding skill，基于本人在 vibe coding 的实践，沉淀出在项目开发中利用大语言模型进行需求设计、功能开发等工作的经验。适用于任意 Java / Spring 后端项目，不绑定具体框架或目录结构。
+
 相比于其他开发者推出的 skill，本 skill 在执行上略显保守，agent 自主性较低，但能够增强开发者对项目代码的掌控程度，适用于项目/框架学习与个人开发
 ## 文件结构
 
